@@ -1,0 +1,4 @@
+autopy
+cv2
+mediapipe
+numpy
