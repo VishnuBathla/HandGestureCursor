@@ -101,7 +101,7 @@ while True:
                 3,
                 (255, 0, 0),
                 3)
-
+# 
     # 12 display
     winname = "Test"
     cv2.namedWindow(winname)  # Create a named window
